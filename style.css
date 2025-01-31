@@ -1,0 +1,25 @@
+#HeroSection{
+    text-align: center;
+    background-color: aliceblue;
+}
+.buttons{
+    text-align: center;
+    background-color: darkolivegreen;
+}
+button{
+    color: orange;
+}
+#About{
+    background-color: aliceblue;
+}
+#schedule{
+    background-color: aliceblue;
+}
+ol img{
+    height: 500px;
+    width: 700px;
+}
+#artistList{
+    text-align: center;
+    background-color: aliceblue;
+}
